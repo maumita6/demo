@@ -1,12 +1,19 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    { "id": 1, "title": "Mummum" },
+    { "id": 2, "title": "Humpu" },
+    { "id": 3, "title": "Sweetu" },
+    { "id": 4, "title": "Sourjo" },
+    { "id": 5, "title": "Sirsa" },
+    { "id": 6, "title": "Gullu" }
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    { "id": 1, "body": "The Honest Woodcutter", "postId": 10 },
+    { "id": 2, "body": "live with honesty", "postId": 11 },
+    { "id": 3, "body": "Honesty is the best policy", "postId": 12 },
+    { "id": 4, "body": "colourful stories from the Panchatantra", "postId": 13 },
+    { "id": 5, "body": "Little Red Riding Hood", "postId": 14 },
+    { "id": 6, "body": "The Gift of the Magi", "postId": 15 }
   ],
   "profile": {
     "name": "typicode"
